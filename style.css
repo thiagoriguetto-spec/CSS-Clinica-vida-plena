@@ -41,12 +41,12 @@ nav a {
 /* SEÇÕES ESPECÍFICAS */
 
 #principal{
-    background-color: antiquewhite;
+    background-color: rgb(149, 134, 233);
     padding: 30px;
 
 }
 #agendamento{
-    background-color: rgb(174, 155, 245);
+    background-color: rgb(149, 134, 233);
     padding: 30px;
     max-width: 800px;
     margin: 0 auto;
