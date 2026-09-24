@@ -1,6 +1,6 @@
 {
-    margin:0
-    padding:0
+    margin:0;
+    padding:0;
 }
 
 body{
@@ -8,7 +8,8 @@ body{
     color: rgb(255, 255, 255);
     line-height: 1.6;
 }
-header, footer {
+header, 
+footer {
     background-color: #000000;
     color: white;
     padding: 20px;}
