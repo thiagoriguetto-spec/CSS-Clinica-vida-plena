@@ -1,13 +1,25 @@
-{
+/* =========================
+   RESET
+   ========================= */
+*{
     margin:0;
     padding:0;
 }
+
+/* =========================
+   BASE
+   ========================= */
 
 body{
     font-family: Arial, sans-serif;
     color: rgb(255, 255, 255);
     line-height: 1.6;
 }
+
+/* =========================
+   ESQUELETO DA PÁGINA
+   ========================= */
+
 header, 
 footer {
     background-color: #000000;
@@ -17,6 +29,13 @@ main {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;}
+
+/* =========================
+   COMPONENTES
+   ========================= */
+
+/* Menu de navegação */
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -33,6 +52,10 @@ nav a {
 }
 .texto-clinica{
     margin-bottom: 15px; 
+
+/* =========================
+   SEÇÕES ESPECÍFICAS
+   ========================= */
 }
 #principal{
     background-color: antiquewhite;
